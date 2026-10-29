@@ -1,5 +1,5 @@
 /* 家帳 service worker — 快取 App 本體，離線也能開 */
-const CACHE = 'ledger-v1';
+const CACHE = 'ledger-v2';
 const ASSETS = [
   './',
   './index.html',
